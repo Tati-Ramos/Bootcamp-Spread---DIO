@@ -1,5 +1,9 @@
 package com.projeto.listaencadeada;
 
+/*
+Uma lista, também chamada de Lista Encadeada ou ainda Lista Simplesmente Encadeada,
+é uma sequência de elementos encadeados, um após o outro.
+ */
 public class ListaEncadeada<T> {
 
     No<T> referenciaEntrada;
