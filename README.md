@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Projetos
-=======
+
 ## Bootcamp Spread Java Developer - Digital Innovation One
 
 #### Projetos :file_folder:
@@ -21,4 +19,4 @@
 * Conceitos de API e Clean Architecture
 * API Rest com Spring
 * Qualidade de Software
->>>>>>> origin/main
+
