@@ -15,6 +15,15 @@ public class Main {
         System.out.println(minhaListaEncadeada.get(2));
         System.out.println(minhaListaEncadeada.get(3));
 
+        System.out.println(minhaListaEncadeada);
+
+        System.out.println(minhaListaEncadeada.remove(3));
+        System.out.println(minhaListaEncadeada);
+
+
+
+
+
     }
 
 }
