@@ -1,5 +1,11 @@
 package com.projeto.fila;
 
+/*
+na fila “o primeiro que entra é o primeiro que sai” (a sigla FIFO – first in, first out – é usada para descrever essa estratégia).
+
+A ideia fundamental da fila é que só podemos inserir um novo elemento no final da fila e só podemos retirar o elemento do início.
+ */
+
 public class Fila<T> {
 
     private No<T> refNoEntradaFila = null;
