@@ -11,7 +11,7 @@
 * Variáveis, Tipos de Dados e Operadores Matemáticos
 * Lógica condicional e controle de fluxo
 * Estrutura de Repetição e Array
-* Collections e Streams Java
+* [Collections e Streams Java](https://github.com/Tati-Ramos/Bootcamp-Spread---DIO/tree/main/collections)
 * Orientação a Objetos Java
 * SQL Server
 * APIs e Métodos HTTP
