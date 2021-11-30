@@ -6,12 +6,12 @@
 ##### :memo: Conteúdos abordados no Bootcamp :books:
 
 * Lógica de Programação Essencial
-* Estrutura de Dados e Algoritmos
+* [Estrutura de Dados e Algoritmos](https://github.com/Tati-Ramos/Bootcamp-Spread---DIO/tree/main/src/main/java/com/projeto)
 * Introdução ao Git e ao GitHub
-* Variáveis, Tipos de Dados e Operadores Matemáticos
-* Lógica condicional e controle de fluxo
-* Estrutura de Repetição e Array
-* Collections e Streams Java
+* [Variáveis, Tipos de Dados e Operadores Matemáticos](https://github.com/Tati-Ramos/Java/tree/main/Java/src/digital/innovation/one)
+* [Lógica condicional e controle de fluxo](https://github.com/Tati-Ramos/Java/tree/main/Java/src/digital/innovation/one)
+* [Estrutura de Repetição e Array](https://github.com/Tati-Ramos/Java/tree/main/Java/src/digital/innovation/one)
+* [Collections e Streams Java](https://github.com/Tati-Ramos/Bootcamp-Spread---DIO/tree/main/collections)
 * Orientação a Objetos Java
 * SQL Server
 * APIs e Métodos HTTP
