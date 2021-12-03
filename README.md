@@ -12,7 +12,7 @@
 * [Lógica condicional e controle de fluxo](https://github.com/Tati-Ramos/Java/tree/main/Java/src/digital/innovation/one)
 * [Estrutura de Repetição e Array](https://github.com/Tati-Ramos/Java/tree/main/Java/src/digital/innovation/one)
 * [Collections e Streams Java](https://github.com/Tati-Ramos/Bootcamp-Spread---DIO/tree/main/collections)
-* Orientação a Objetos Java
+* [Orientação a Objetos Java](https://github.com/Tati-Ramos/Bootcamp-Spread---DIO/tree/main/orientacao-objetos-java)
 * SQL Server
 * APIs e Métodos HTTP
 * Framework Spring Boot
