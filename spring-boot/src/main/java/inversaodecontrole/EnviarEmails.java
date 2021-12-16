@@ -1,4 +1,4 @@
-package inversaoDeControle;
+package inversaodecontrole;
 
 public class EnviarEmails {
 

@@ -1,4 +1,4 @@
-package utilizandoBeans;
+package utilizandobeans;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

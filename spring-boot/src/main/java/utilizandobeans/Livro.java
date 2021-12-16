@@ -1,4 +1,4 @@
-package utilizandoBeans;
+package utilizandobeans;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
